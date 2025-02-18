@@ -29,6 +29,8 @@ Other: React-YouTube for embedded video playback
 
 Setup Instructions
 
+*For Trailer Viewing Please Make Sure To Turn Off Your Adblock*
+
 1. Clone the Repository
 
 git clone (https://github.com/CMPortfolio/netflix_clone)
