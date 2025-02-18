@@ -31,7 +31,7 @@ Setup Instructions
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/netflix-clone.git
+git clone (https://github.com/CMPortfolio/netflix_clone)
 cd netflix-clone
 
 2. Install Dependencies
