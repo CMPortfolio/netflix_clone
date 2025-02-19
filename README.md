@@ -30,6 +30,7 @@ Other: React-YouTube for embedded video playback
 Setup Instructions
 
 *For Trailer Viewing Please Make Sure To Turn Off Your Adblock*
+*Note that not all movies will have a trailer if the TMBD API cant find a valid trailer for it*
 
 1. Clone the Repository
 
